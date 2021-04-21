@@ -1,0 +1,2 @@
+$('#button').on('click', newItem)
+
